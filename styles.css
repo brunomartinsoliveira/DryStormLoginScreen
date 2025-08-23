@@ -19,7 +19,7 @@ body {
 
 .container  {
     width: 420px;
-    background-color: transparent;
+    background-color:rgb(8, 8, 36);
     border: 2px solid rgba(255, 255, 255, .2);
     border-radius: 10px;
     color: #fff;
