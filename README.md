@@ -2,7 +2,7 @@
 
 # Sobre o projeto:
 
-DryStormLoginScreen é uma pagina HTML+CSS para login, cadastro, recuperar senha da página DryStorm Roupas Dry Fit.
+DryStormLoginScreen é uma pagina HTML+CSS para login, cadastro e recuperação de senha da marca DryStorm Roupas Dry Fit.
 
 A página apresenta um layout minimalista, com campos para o usuário digitar seu login e a senha de forma discreta. Apresenta também campos para lembrar senha, recuperação e cadastro; caso o usário seja novo
 na plataforma da loja.
