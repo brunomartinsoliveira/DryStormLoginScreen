@@ -18,7 +18,7 @@ https://brunomartinsoliveira.github.io/DryStormLoginScreen/
 
 Bruno Martins de Oliveira
 
-https://www.linkedin.com/in/martinsbrunodev/
+https://www.linkedin.com/in/brunooliveiradev/
 
 ## 📄 Licença
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
